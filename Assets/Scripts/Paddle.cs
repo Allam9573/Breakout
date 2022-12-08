@@ -21,7 +21,5 @@ public class Paddle : MonoBehaviour
             this.transform.position += Vector3.right * speed * Time.deltaTime;
         }
     }
-    private void OnCollisionEnter2D(Collision2D collision){
-        Debug.Log(collision.gameObject.name);
-    }
+   
 }
