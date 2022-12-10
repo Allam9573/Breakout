@@ -4,7 +4,15 @@ using UnityEngine;
 
 public class Block : MonoBehaviour
 {
-   private void OnCollisionEnter2D(Collision2D collision){
-       Destroy(gameObject);
-   }
+    GameObject gameManagerObj;
+
+    GameManager gameManager;
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        gameManagerObj = GameObject.Find("GameManager");
+        gameManager = gameManagerObj.GetComponent<GameManager>();
+        gameManager.SetBricksOnLevel(1);
+        Destroy (gameObject);
+    }
 }
