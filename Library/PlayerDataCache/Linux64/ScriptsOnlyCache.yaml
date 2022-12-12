@@ -12,11 +12,8 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -80,37 +77,37 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1486}
+      Script: {instanceID: 1488}
     - Class: 114
-      Script: {instanceID: 1864}
+      Script: {instanceID: 1866}
     - Class: 114
-      Script: {instanceID: 2284}
+      Script: {instanceID: 2286}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2664}
     - Class: 114
-      Script: {instanceID: 2710}
+      Script: {instanceID: 2712}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2886}
     - Class: 114
-      Script: {instanceID: 2934}
+      Script: {instanceID: 2936}
     - Class: 114
-      Script: {instanceID: 3120}
+      Script: {instanceID: 3122}
     - Class: 114
-      Script: {instanceID: 3222}
+      Script: {instanceID: 3224}
     - Class: 114
-      Script: {instanceID: 3368}
+      Script: {instanceID: 3370}
     - Class: 114
-      Script: {instanceID: 3440}
+      Script: {instanceID: 3442}
     - Class: 114
-      Script: {instanceID: 3490}
+      Script: {instanceID: 3492}
     - Class: 114
-      Script: {instanceID: 3648}
+      Script: {instanceID: 3650}
     - Class: 114
-      Script: {instanceID: 4214}
+      Script: {instanceID: 4216}
     - Class: 114
-      Script: {instanceID: 4660}
+      Script: {instanceID: 4662}
     - Class: 114
-      Script: {instanceID: 4840}
+      Script: {instanceID: 4842}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -149,31 +146,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1486}
+      Script: {instanceID: 1488}
     - Class: 114
-      Script: {instanceID: 1864}
+      Script: {instanceID: 1866}
     - Class: 114
-      Script: {instanceID: 2276}
+      Script: {instanceID: 2278}
     - Class: 114
-      Script: {instanceID: 2284}
+      Script: {instanceID: 2286}
     - Class: 114
-      Script: {instanceID: 2662}
+      Script: {instanceID: 2664}
     - Class: 114
-      Script: {instanceID: 2710}
+      Script: {instanceID: 2712}
     - Class: 114
-      Script: {instanceID: 2884}
+      Script: {instanceID: 2886}
     - Class: 114
-      Script: {instanceID: 2934}
+      Script: {instanceID: 2936}
     - Class: 114
-      Script: {instanceID: 3120}
+      Script: {instanceID: 3122}
     - Class: 114
-      Script: {instanceID: 3368}
+      Script: {instanceID: 3370}
     - Class: 114
-      Script: {instanceID: 3490}
+      Script: {instanceID: 3492}
     - Class: 114
-      Script: {instanceID: 4908}
+      Script: {instanceID: 4910}
     - Class: 114
-      Script: {instanceID: 5306}
+      Script: {instanceID: 5308}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
